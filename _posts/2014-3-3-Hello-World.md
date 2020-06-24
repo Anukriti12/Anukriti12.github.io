@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OUTREACHY INTERNSHIP 2020
-published: false
+published: true
 ---
 **Hello World!**
 
