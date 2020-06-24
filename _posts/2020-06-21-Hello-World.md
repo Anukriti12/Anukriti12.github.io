@@ -3,7 +3,7 @@ layout: post
 title: OUTREACHY-INTERNSHIP-2020
 published: true
 ---
-**Hello World!**
+**Hello World! **
 
 I am Anukriti hailing from New Delhi, India currently pursuing my Bachelors degree in Information Technology from Delhi Technological University (Formerly Delhi College of Engineering), Delhi. 
 
