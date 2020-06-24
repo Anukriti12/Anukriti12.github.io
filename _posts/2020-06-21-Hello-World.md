@@ -1,7 +1,7 @@
 ---
 layout: post
-title: _posts/2020-06-21-OUTREACHY-INTERNSHIP-2020.md
-published: true
+title: OUTREACHY-INTERNSHIP-2020
+published: false
 ---
 **Hello World!**
 
@@ -18,6 +18,7 @@ On the very first day of induction in University, a counselling session was orga
 Outreachy is one such platform where you get an opportunity to contribute to open source software remotely through a 3 month long paid internship to hone your capabilities and explore your potential. This program is offered twice a year and the best part is that you need not have to be a student to apply for it. Here, the interns get to learn from some of the most skilled and talented mentors and are paid a decent stipend of $5,500 with a $500 travel grant to attend any national or international event or seminar related to their project subject to the approval of their mentors.
     
 ![outreachy.png]({{site.baseurl}}/_posts/outreachy.png)
+
     
 ##  Initial Application
 
