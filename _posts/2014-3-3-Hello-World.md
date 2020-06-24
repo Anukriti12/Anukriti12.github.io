@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OUTREACHY INTERNSHIP 2020: SELECTION PROCESS'
+title: OUTREACHY INTERNSHIP 2020
 published: false
 ---
 **Hello World!**
