@@ -16,8 +16,6 @@ Happy Reading!
 On the very first day of induction in University, a counselling session was organized by our seniors and we were given insights about life in an engineering college and various prestigious programs that engineering students dream to pursue, especially those from the field of Computers Sciences and Information Technology. This was the day when I got to know all about open source contributions for the very first time and it led to a very positive impact in my life.
 
 Outreachy is one such platform where you get an opportunity to contribute to open source software remotely through a 3 month long paid internship to hone your capabilities and explore your potential. This program is offered twice a year and the best part is that you need not have to be a student to apply for it. Here, the interns get to learn from some of the most skilled and talented mentors and are paid a decent stipend of $5,500 with a $500 travel grant to attend any national or international event or seminar related to their project subject to the approval of their mentors.
-    
-![outreachy.png]({{site.baseurl}}/_posts/outreachy.png)
 
     
 ##  Initial Application
@@ -30,10 +28,6 @@ In the month of February, I filled my initial application which asked for my man
 Now came the most challenging part of the selection process which was definitely the most important as well in which I had to pick some organisations and projects which were more inclined to my interests and with whom I could start off my open source journey. 
 
 Being an inquisitive person by nature, I always wanted to explore something different and hence, chose OCaml Organisation as I wanted to learn a new skill and put my knowledge related to Compilers in some practical use. I was intrigued by OCaml being a functional programming language and the way it can help us to solve problems much more effectively and in a simpler way. The first thing that I did after this decision was to quickly review some basic of Git that was all I required to get started.
-
-
-![colour-logo.png]({{site.baseurl}}/_posts/colour-logo.png)
-
 
 I started contributing in the month of April which for me, was definitely an opportunity to explore my potential to code, to interact with people from across the globe, to be a part of a community that is working day and night to contribute to welfare of the human race through technology. I really worked very hard to be part and parcel of this amazing community and learnt some amazing stuff on my way.
 
