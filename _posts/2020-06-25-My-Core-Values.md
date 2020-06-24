@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 
 	VALUES ARE LIKE FINGERPRINTS. NOBODYs ARE THE SAME BUT YOU LEAVE THEM ALL OVER EVERYTHING YOU DO!
@@ -31,6 +31,6 @@ It is the essence of life. By growth, I meant not to be stagnant in life. Accord
 ![GWOTH.jpg]({{site.baseurl}}/_posts/GWOTH.jpg)
 
 
-
+So, these were some of my core values. I hope you all liked it and stay connected for more such blogs in future!
 
 
