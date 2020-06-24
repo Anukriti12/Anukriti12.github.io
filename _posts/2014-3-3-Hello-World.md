@@ -1,6 +1,6 @@
 ---
 layout: post
-title: _posts/2020-06-24-OUTREACHY-INTERNSHIP-2020.md
+title: _posts/2020-06-21-OUTREACHY-INTERNSHIP-2020.md
 published: true
 ---
 **Hello World!**
