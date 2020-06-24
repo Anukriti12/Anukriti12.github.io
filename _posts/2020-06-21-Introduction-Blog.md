@@ -25,9 +25,9 @@ In the month of February, I filled my initial application which asked for my man
 
 ## Contribution Phase
 
-Now came the most challenging part of the selection process which was definitely the most important as well in which I had to pick some organisations and projects which were more inclined to my interests and with whom I could start off my open source journey. 
+Now came the most challenging yet interesting part of the selection process which was definitely the most important as well in which I had to pick some organisations and projects which were more inclined to my interests and with whom I could start off my open source journey. 
 
-Being an inquisitive person by nature, I always wanted to explore something different and hence, chose OCaml Organisation as I wanted to learn a new skill and put my knowledge related to Compilers in some practical use. I was intrigued by OCaml being a functional programming language and the way it can help us to solve problems much more effectively and in a simpler way. The first thing that I did after this decision was to quickly review some basic of Git that was all I required to get started.
+Being an inquisitive person by nature, I always wanted to explore something different and hence, chose OCaml Organisation as I wanted to learn a new skill and put my knowledge related to Compilers in some practical use. I was intrigued by OCaml being a functional programming language and the way it can help solve problems much more effectively and in a simpler way. The first thing that I did after this decision was to quickly review some basics of Git that was all I required to get started.
 
 I started contributing in the month of April which for me, was definitely an opportunity to explore my potential to code, to interact with people from across the globe, to be a part of a community that is working day and night to contribute to welfare of the human race through technology. I really worked very hard to be part and parcel of this amazing community and learnt some amazing stuff on my way.
 
@@ -35,7 +35,7 @@ Initially, I did face some hurdles and thought that it was not my cup of tea. I 
 
 ## Result Declaration
 
-It was D-day and I was filled with mixed emotions. It was 4th May and at around 9.30pm IST, I was expecting my results. I was continuously gazing at my screen with a lot of excitement coupled with nervousness. I was trying to login but the website unfortunately crashed and finally, at around 10pm, a mail popped up on my screen “Congratulations on being accepted as an Outreachy intern”. I was elated with joy and it was like a dream come true as i was one of the 55 interns that got selected across the globe for this prestigious opportunity.
+It was D-day and I was filled with mixed emotions. It was 4th May and at around 9.30pm IST, I was expecting my results. I was continuously gazing at my laptop screen with a lot of excitement coupled with nervousness. I was trying to login but the website unfortunately crashed and finally, at around 10pm, a mail popped up on my screen “Congratulations on being accepted as an Outreachy intern”. I was elated with joy and it was like a dream come true moment as I was one of the 55 interns that got selected across the globe for this prestigious opportunity.
 
 A big thanks to almighty, to my family and friends, without whose moral support, this wouldn’t be possible. And, my final thanks to my mentors Vincent Laviron and Guillaume Bury for their continuous support and motivation. Needless to say, their unconditional and selfless support was always there in the moments of distress and failures to sort out the bugs and issues faced during the process. 
 
