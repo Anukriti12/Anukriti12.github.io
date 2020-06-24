@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 # "VALUES ARE LIKE FINGERPRINTS. NOBODY's ARE THE SAME BUT YOU LEAVE THEM ALL OVER EVERYTHING YOU DO!"
