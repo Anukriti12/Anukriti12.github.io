@@ -30,6 +30,7 @@ Now came the most challenging part of the selection process which was definitely
 
 Being an inquisitive person by nature, I always wanted to explore something different and hence, chose OCaml Organisation as I wanted to learn a new skill and put my knowledge related to Compilers in some practical use. I was intrigued by OCaml being a functional programming language and the way it can help us to solve problems much more effectively and in a simpler way. The first thing that I did after this decision was to quickly review some basic of Git that was all I required to get started.
 
+
 ![colour-logo.png]({{site.baseurl}}/_posts/colour-logo.png)
 
 
