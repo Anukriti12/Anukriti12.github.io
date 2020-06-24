@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OUTREACHY-INTERNSHIP-2020.md
+title: OUTREACHY-INTERNSHIP-2020
 published: true
 ---
 **Hello World!**
