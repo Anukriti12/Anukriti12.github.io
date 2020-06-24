@@ -2,7 +2,7 @@
 published: true
 ---
 
-# "VALUES ARE LIKE FINGERPRINTS. NOBODY's ARE THE SAME BUT YOU LEAVE THEM ALL OVER EVERYTHING YOU DO!"
+## "VALUES ARE LIKE FINGERPRINTS. NOBODY's ARE THE SAME BUT YOU LEAVE THEM ALL OVER EVERYTHING YOU DO!"
     
 Core values are those traits or qualities that are not just worthwhile but they also represent an individual's highest priorities, deeply held beliefs, and core, fundamental driving forces. These are the guiding principles as they form a solid core of who you are, what you believe, and who you are and want to be going forward.
 
