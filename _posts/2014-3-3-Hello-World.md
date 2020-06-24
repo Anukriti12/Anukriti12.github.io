@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OUTREACHY-INTERNSHIP-2020
+title: _posts/2020-06-21-OUTREACHY-INTERNSHIP-2020.md
 published: true
 ---
 **Hello World!**
@@ -37,7 +37,7 @@ I started contributing in the month of April which for me, was definitely an opp
 
 Initially, I did face some hurdles and thought that it was not my cup of tea. I was not able to work out where to begin from. But, still I did not lose hope and kept contributing with the guidance of my seniors and mentors. As the days passed by, I felt myself improving in contributing to the assigned tasks and  started gaining confidence that I could do that.
 
-## Contribution Phase
+## Result Declaration
 
 It was D-day and I was filled with mixed emotions. It was 4th May and at around 9.30pm IST, I was expecting my results. I was continuously gazing at my screen with a lot of excitement coupled with nervousness. I was trying to login but the website unfortunately crashed and finally, at around 10pm, a mail popped up on my screen “Congratulations on being accepted as an Outreachy intern”. I was elated with joy and it was like a dream come true as i was one of the 55 interns that got selected across the globe for this prestigious opportunity.
 
